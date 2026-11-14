@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Payment reconciliation.
 Reads payments.jsonl and works out how much money we actually collected.
 Run:  python reconcile.py
